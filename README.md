@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nizar07, I'm 20yo
+- 👋 Hi, I’m @Nizar07, I'm 19yo
 - 👀 I’m interested in GameDev and Webdev
 - 🌱 I’m currently learning Godot(GameDev)
 - 💞️ I’m looking to collaborate on ...
